@@ -1,0 +1,32 @@
+{
+  "name": "courseforge-mcp",
+  "version": "1.0.0",
+  "description": "CourseForge - Autonomous Course Creation & Knowledge Monetization, Topic Validation, Curriculum Design, Fast Content Production & Launch/Sales Engine MCP. Engineers course businesses with sellability reads and 90-day roadmaps, pre-recording validation (demand mining, competitor course archaeology, presale protocol), curriculum design (outcome mapping, 10-minute lesson law, completion engineering), solo-speed production (audio-first video, batch recording, workbook design), and sales systems (transformation pricing, 2-week launch campaigns, evergreen funnels, audience-stage playbooks).",
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "course-creation",
+    "online-course",
+    "knowledge-monetization",
+    "curriculum-design",
+    "creator-economy",
+    "e-learning",
+    "teaching",
+    "cohort-course",
+    "course-launch",
+    "evergreen-funnel",
+    "digital-products",
+    "education",
+    "video-production",
+    "lead-magnet",
+    "cursor",
+    "claude"
+  ],
+  "homepage": "https://mcp-hub.agentweb-hub.workers.dev/mcp/courseforge",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmyGraphics/courseforge-mcp"
+  },
+  "author": "AmyGraphics",
+  "license": "MIT"
+}
